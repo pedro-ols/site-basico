@@ -56,3 +56,13 @@ p{
 .Redes:hover{
     font-size: 15px;
 }
+.botão{
+    color: rgb(95, 90, 90);
+}
+.botão:hover{
+    color: rgb(43, 41, 41);
+}
+.forminho{
+    background-color: rgb(222, 223, 206);
+    border-radius: 40px;
+}
