@@ -1,0 +1,58 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}    
+body{
+    background-color: rgb(181, 184, 19)
+}
+.menu-horizontal{
+    width: 100%;
+    background-color: rgb(222, 223, 206);
+    height: 50px;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    display: block;
+}
+a{
+    color: rgb(2, 3, 0);
+    text-decoration: none;
+    margin-top: 50%;
+    margin-left: 20px;
+    padding: 20px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+a:hover{
+    color: black;
+    transition: 0.7s;
+    font-size: 30px;
+}
+h1{
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+}
+p{
+    color: rgb(13, 14, 13);
+}
+.logoSite{
+    margin-left: 90%;
+    margin-top: -30px;
+    width: 70px;
+    border-radius: 180px;
+}
+.desenho3{
+    width: 400px;
+    height: 250px;
+}
+.desenho1{
+    width: 280px;
+    height: 400px;
+}
+.desenhos{
+    margin-left: 37%;
+}
+.Redes{
+    font-size: 15px;
+}
+.Redes:hover{
+    font-size: 15px;
+}
