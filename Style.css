@@ -2,18 +2,21 @@
     font-family: Arial, Helvetica, sans-serif;
 }    
 body{
-    background-color: rgb(181, 184, 19)
+    background-color: rgb(123, 14, 185);
+    background-image: url(img/5230617-fundo-de-onda-roxo-ilustracao-fundo-degrade-roxo-fundo-roxo-gratis-vetor.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 .menu-horizontal{
     width: 100%;
-    background-color: rgb(222, 223, 206);
+    background-color: rgb(39, 20, 56);
     height: 50px;
     padding-top: 25px;
     padding-bottom: 30px;
-    display: block;
 }
 a{
-    color: rgb(2, 3, 0);
+    color: rgb(181, 165, 185);
     text-decoration: none;
     margin-top: 50%;
     margin-left: 20px;
@@ -22,16 +25,16 @@ a{
     font-size: 20px;
 }
 a:hover{
-    color: black;
+    color: rgb(123, 14, 185);
     transition: 0.7s;
     font-size: 30px;
 }
 h1{
     margin-top: 30px;
-    color: rgb(0, 0, 0);
+    color: rgb(181, 165, 185);
 }
 p{
-    color: rgb(13, 14, 13);
+    color: rgb(181, 165, 185);
 }
 .logoSite{
     margin-left: 90%;
@@ -39,30 +42,49 @@ p{
     width: 70px;
     border-radius: 180px;
 }
-.desenho3{
-    width: 400px;
-    height: 250px;
+.desenho2{
+    width: 594px;
+    height: 420px;
+    border-radius: 25px;
 }
 .desenho1{
-    width: 280px;
-    height: 400px;
+    width: 420px;
+    height: 594px;
+    border-radius: 25px;
 }
 .desenhos{
-    margin-left: 37%;
-}
-.Redes{
-    font-size: 15px;
-}
-.Redes:hover{
-    font-size: 15px;
+    text-align: center;
 }
 .botão{
-    color: rgb(95, 90, 90);
+    background-color: rgb(123, 14, 185);
+    color: rgb(181, 165, 185);
+    margin: 20px;
+    font-size: 20px;
 }
 .botão:hover{
     color: rgb(43, 41, 41);
 }
 .forminho{
-    background-color: rgb(222, 223, 206);
+    background-color: rgb(181, 161, 192);
     border-radius: 40px;
+    padding: 20px;
+    padding-top: 20px;
+    font-size: 25px;
+    border: 8px solid black;
+}
+h2{
+    color: rgb(181, 165, 185);
+}
+.textosobre{
+    font-size: 25px;
+    text-align: center;
+}
+.caixinhas{
+    margin: 20px;
+}
+.descricao{
+    font-size: 20px;
+}
+.textohome{
+    font-size: 30px;
 }
